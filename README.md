@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
+![Framework](https://img.shields.io/badge/PyTorch-1.12-red.svg)
+![Simulator](https://img.shields.io/badge/CARLA-Simulator-black.svg)
+![XAI](https://img.shields.io/badge/Explainable%20AI-Grad--CAM%20%7C%20SHAP-purple.svg)
+![Course](https://img.shields.io/badge/Course-AIN4312-blueviolet.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 # 🚗 Explainable AI for Autonomous Vehicles
 
 **AIN4312 – Special Topics in AI Engineering II**
