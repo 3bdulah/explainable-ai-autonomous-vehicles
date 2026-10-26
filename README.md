@@ -30,7 +30,15 @@ An end-to-end Explainable Artificial Intelligence (XAI) system for autonomous dr
 
 ---
 
-## ⚠️ Scope and limitations\n\n- Evaluated in the CARLA simulator; not validated for public-road use.\n- Explainability outputs help inspect model behavior but do not guarantee correctness or safety.\n- The repository documents a prototype and course project, not a certified autonomous-driving stack.\n\n---\n\n## 🧠 Motivation
+## ⚠️ Scope and limitations
+
+- Evaluated in the CARLA simulator; not validated for public-road use.
+- Explainability outputs help inspect model behavior but do not guarantee correctness or safety.
+- The repository documents a prototype and course project, not a certified autonomous-driving stack.
+
+---
+
+## 🧠 Motivation
 
 Autonomous driving models often operate as **black boxes**, especially in safety-critical scenarios. While predictions may be accurate, the reasoning behind them is hidden, which creates safety and trust concerns.
 
