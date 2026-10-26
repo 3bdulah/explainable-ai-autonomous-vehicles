@@ -36,6 +36,10 @@ An end-to-end Explainable Artificial Intelligence (XAI) system for autonomous dr
 - Explainability outputs help inspect model behavior but do not guarantee correctness or safety.
 - The repository documents a prototype and course project, not a certified autonomous-driving stack.
 
+## Environment note
+
+The pinned environment uses Python 3.7, PyTorch 1.12, and CUDA 11.3. This is a legacy stack; Python 3.7 is end-of-life. Use an isolated environment and avoid exposing the demo as a network service. Upgrading Python or PyTorch may require matching CARLA API and dependency changes, so validate the full simulation before changing the pins.
+
 ---
 
 ## 🧠 Motivation
